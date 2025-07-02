@@ -1,0 +1,9 @@
+opencv-python
+numpy
+pyttsx3
+requests
+torch
+torchvision
+torchaudio
+yolov5  # for compatibility, even if using yolov3
+pyyaml
